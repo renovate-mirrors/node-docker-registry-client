@@ -11,7 +11,7 @@
         "jws": "3.1.0",
         "jwk-to-pem": "1.2.0",
         "restify-clients": "^1.4.0",
-        "restify-errors": "^3.0.0",
+        "restify-errors": "^6.0.0",
         "strsplit": "1.x",
         "tough-cookie": "2.0.x",
         "vasync": "1.x >=1.6.1",
